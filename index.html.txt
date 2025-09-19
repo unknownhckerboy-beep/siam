@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday Jaaan❤️</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Sacramento&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1 class="heartbeat">Happy Birthday, [Arju]! 💖</h1>
+        <p>You are the most amazing person in my life. I love you forever Bow Jan 💘</p>
+        <img src="girlfriend.jpg" alt="My Love" class="profile-pic">
+        <button id="surpriseBtn">Click Me for a Surprise!</button>
+        <div id="surprise" class="hidden">
+            🎉🎂 I LOVE YOU FOREVER BABY! 🎂🎉
+        </div>
+    </div>
+
+    <!-- Floating hearts container -->
+    <div class="hearts"></div>
+
+    <!-- Optional music -->
+    <!-- <audio autoplay loop src="happy-birthday.mp3"></audio> -->
+
+    <script src="script.js"></script>
+</body>
+</html>
